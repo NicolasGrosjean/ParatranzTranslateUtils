@@ -1,0 +1,9 @@
+.idea/
+.vscode/launch.json
+*.pyc
+*.exe
+*.spec
+*.log
+.coverage
+coverage.xml
+report.xml
